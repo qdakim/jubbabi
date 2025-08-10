@@ -204,7 +204,7 @@ errorDuringFileDownloadTitle = "파일 다운로드 중 오류"
 preparingToLaunch = "실행 준비 중.."
 launchingGame = "게임 실행 중.."
 launchWrapperNotDownloaded = "메인 파일인 LaunchWrapper 다운로드에 실패했습니다. 따라서 게임을 실행할 수 없습니다.<br><br>이 문제를 해결하려면 일시적으로 바이러스 백신 소프트웨어를 끄고 게임을 다시 실행하십시오.<br><br>시간이 허락한다면 <a href=\"https://github.com/dscalzi/HeliosLauncher/issues\">문제 보고</a>를 제출하여 사용하는 바이러스 백신 소프트웨어를 알려주세요. 개발 팀에서 바이러스 백신 업체와 연락하여 문제를 해결하려고 노력하겠습니다."
-doneEnjoyServer = "완료! 서버에서 좋은 시간 보내세요!"
+doneEnjoyServer = "완료! 잠시만 기다려주세요!"
 checkConsoleForDetails = "자세한 내용은 콘솔(CTRL + Shift + i)을 확인하십시오."
 
 [js.landing.news]

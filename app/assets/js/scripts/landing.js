@@ -2,7 +2,7 @@
  * Script for landing.ejs
  */
 // Requirements
-const fs = require('fs-extra');
+const fs                      = require('fs-extra')
 const { URL }                 = require('url')
 const {
     MojangRestAPI,
